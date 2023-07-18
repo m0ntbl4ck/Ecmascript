@@ -1,0 +1,15 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "ecmascript ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Brandon Vergara <mont.black.123@gmail.com>",
+  "license": "MIT"
+}
